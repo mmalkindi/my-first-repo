@@ -1,2 +1,3 @@
-# my-first-repo
-Tutorial 0 PBP Ganjil 2024
+Nama    : Muhammad Milian Alkindi
+NPM     : 2206081856
+Kelas   : PBP A
